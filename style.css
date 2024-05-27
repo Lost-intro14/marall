@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: white;
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+#page-1 {
+  background-color: rgb(255, 0, 234);
+}
+#page-2 {
+  background-color: brown;
+}
+#page-3 {
+  background-color: black;
+}
+#page-4 {
+  background-color: chocolate;
+}
